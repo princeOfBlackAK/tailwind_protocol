@@ -1,6 +1,7 @@
 {
   "name": "tailwind-plus-protocol",
   "version": "0.1.0",
+  "homepage": "https://princeOfBlackAK.github.io/tailwind_protocol",
   "private": true,
   "scripts": {
     "dev": "next dev",
